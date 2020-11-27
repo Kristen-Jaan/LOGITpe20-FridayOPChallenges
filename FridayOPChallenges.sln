@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FridayOPChallenges", "FridayOPChallenges\FridayOPChallenges.csproj", "{E4F20EB2-51F8-4F3B-AFED-08B6F47488EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4F20EB2-51F8-4F3B-AFED-08B6F47488EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F20EB2-51F8-4F3B-AFED-08B6F47488EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F20EB2-51F8-4F3B-AFED-08B6F47488EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F20EB2-51F8-4F3B-AFED-08B6F47488EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71EA54CC-538E-4E56-801E-D8DECBA51A63}
+	EndGlobalSection
+EndGlobal

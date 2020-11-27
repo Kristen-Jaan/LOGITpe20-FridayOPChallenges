@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\FridayOPChallenges\FridayOPChallenges\bin\Debug\netcoreapp3.1\FridayOPChallenges.exe
+C:\Users\opilane\source\repos\FridayOPChallenges\FridayOPChallenges\bin\Debug\netcoreapp3.1\FridayOPChallenges.deps.json
+C:\Users\opilane\source\repos\FridayOPChallenges\FridayOPChallenges\bin\Debug\netcoreapp3.1\FridayOPChallenges.runtimeconfig.json
+C:\Users\opilane\source\repos\FridayOPChallenges\FridayOPChallenges\bin\Debug\netcoreapp3.1\FridayOPChallenges.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FridayOPChallenges\FridayOPChallenges\bin\Debug\netcoreapp3.1\FridayOPChallenges.dll
+C:\Users\opilane\source\repos\FridayOPChallenges\FridayOPChallenges\bin\Debug\netcoreapp3.1\FridayOPChallenges.pdb
+C:\Users\opilane\source\repos\FridayOPChallenges\FridayOPChallenges\obj\Debug\netcoreapp3.1\FridayOPChallenges.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FridayOPChallenges\FridayOPChallenges\obj\Debug\netcoreapp3.1\FridayOPChallenges.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FridayOPChallenges\FridayOPChallenges\obj\Debug\netcoreapp3.1\FridayOPChallenges.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FridayOPChallenges\FridayOPChallenges\obj\Debug\netcoreapp3.1\FridayOPChallenges.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FridayOPChallenges\FridayOPChallenges\obj\Debug\netcoreapp3.1\FridayOPChallenges.dll
+C:\Users\opilane\source\repos\FridayOPChallenges\FridayOPChallenges\obj\Debug\netcoreapp3.1\FridayOPChallenges.pdb
+C:\Users\opilane\source\repos\FridayOPChallenges\FridayOPChallenges\obj\Debug\netcoreapp3.1\FridayOPChallenges.genruntimeconfig.cache
